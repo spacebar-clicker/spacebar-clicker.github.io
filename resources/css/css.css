@@ -70,7 +70,7 @@ a:hover {
     font-weight: 700;
     background-color: #dfad26;
     padding: 0;
-    background-image: linear-gradient(to top, #feb04f, #fe4a00);
+    background-image: linear-gradient(to top, #18b5fe, #18b5fe);
     border-bottom: 4px solid #080706
 }
 
@@ -436,7 +436,6 @@ h1.singlepage-title {
 }
 
 .site-logo {
-    padding: 5px;
     height: auto;
     width: 70px;
     object-fit: cover
