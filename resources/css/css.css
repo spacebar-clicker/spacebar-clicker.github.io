@@ -107,7 +107,7 @@ a.nav-link {
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
-    padding: .25rem 1rem
+
 }
 
 li.current-menu-item.nav-item a.nav-link {
@@ -439,6 +439,7 @@ h1.singlepage-title {
     height: auto;
     width: 70px;
     object-fit: cover
+    margin-left: 30px;
 }
 
 .nav-categories {
