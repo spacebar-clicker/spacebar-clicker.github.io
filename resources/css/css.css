@@ -438,7 +438,7 @@ h1.singlepage-title {
 .site-logo {
     height: auto;
     width: 70px;
-    object-fit: cover
+    object-fit: cover;
     margin-left: 30px;
 }
 
