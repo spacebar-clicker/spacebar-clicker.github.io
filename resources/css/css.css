@@ -70,7 +70,7 @@ a:hover {
     font-weight: 700;
     background-color: #dfad26;
     padding: 0;
-    background-image: linear-gradient(to top, #18b5fe, #18b5fe);
+    background-image: #fff;
     border-bottom: 4px solid #080706
 }
 
